@@ -21,9 +21,9 @@ namespace Calculadora.ConsoleApp
             while (true)
             {
                 MostraMenu();
-
+                
                 opcao = Console.ReadLine();
-
+                //teste
                 if (opcao != "1" && opcao != "2" && opcao != "3" && opcao != "4" && opcao != "5" && opcao != "S" && opcao != "s")
                 {
                    // Console.Clear();
