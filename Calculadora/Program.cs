@@ -10,7 +10,7 @@ namespace Calculadora.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Calculadora calc = new Calculadora();
+            new Calculadora();
         }
     }
 }
